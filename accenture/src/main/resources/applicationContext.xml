@@ -1,0 +1,8 @@
+<beans>
+
+	<bean id ="chick" class="com/Chicken.java">
+	
+	</bean>
+
+
+</beans>
